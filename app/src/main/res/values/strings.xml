@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PreferenceFragment</string>
+    <string name="go_to_fragment">Go to fragment</string>
+    <string name="app_name_image">App image</string>
+    <string name="browsernamewithtrademark">Version</string>
+    <string name = "about">About</string>
+    <string name="copyright">\All Rights Reserved.</string>
+    <string name="copyRightDesc">Android is a trademark of Google, Inc.</string>
+    <string name="copyRightLink"><a href="http://www.google.com">Additional Copyright Information</a></string>
+    <string name="strBack">Back</string>
+    <string name="aboutPreferenceTitle">About</string>
+    <string name="optionsPreferenceTitle">Other</string>
+
+</resources>

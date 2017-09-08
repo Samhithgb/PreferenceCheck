@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="progresscolor">#9D53DC</color>
+    <color name="solid_background">#eae7ed</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tab_bar_background">#757377</color>
+    <color name="tab_title_selected">#333333</color>
+    <color name="tab_title">#cccccc</color>
+    <color name="tab_border">#eae7ed</color>
+    <color name="tab_phone_item_background">#6D4390</color>
+    <color name="tab_phone_count_color">#ff9d54dc</color>
+    <color name="action_theme_color">#9D53FC</color>
+    <drawable name="action_bar_item_pressed">#f5f5f5</drawable>
+    <drawable name="popup_menu_default_background">#eae7ed</drawable>
+    <drawable name="transparentDrawable">#00000000</drawable>
+    <color name="list_text_h1_color">#333333</color>
+    <color name="list_text_h3_color">#999999</color>
+    <color name="split_action_bar_color">#eae7ed</color>
+    <color name="divider_color">#cccccc</color>
+    <color name="text_disabled_color">#cccccc</color>
+    <color name="phone_tabs_window_background_color">#eeeeee</color>
+    <color name="cursor_color">#9D53FC</color>
+    <color name="header_background">#F0F0F0</color>
+    <color name="header_text_color">#000000</color>
+    <color name="action_title_text_color">#000000</color>
+    <color name="header_subitem_lefttext_color">#555555</color>
+    <color name="advanced_righttext_color">#8c8c8c</color>
+    <color name="homepage_edittext_color">#333333</color>
+    <drawable name="alertdialog_button_pressed">#E3E3E3</drawable>
+    <color name="text_hint_color">#cccccc</color>
+    <color name="success_text_color">#000000</color>
+</resources>

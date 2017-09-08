@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light" />
+
+    <style name="buttonBarButtonStyle" parent="android:Widget.ActionButton">
+        <item name="android:layout_height">?attr/android:actionBarSize</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/action_bar_item_selector</item>
+        <item name="android:textColor">@color/action_theme_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
